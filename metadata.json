@@ -1,0 +1,6 @@
+{
+  "name": "EduMind AI - Complete Educational AI Chatbot",
+  "description": "A production-grade educational AI chatbot powered by Groq, featuring ChatGPT-style UI, document QA (PDF & TXT), math equations, syntax highlighting, learning tutor modes, quiz generator, code tutor, notes, flashcards, and study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
